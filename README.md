@@ -6,6 +6,6 @@
 - Tapez la commande `npm i` dans votre terminal
 - C'est tout 🥳
 
-## 01-add-one
+## Exercices 1 à 2
 
-Faites passer le test add-one.test.js en écrivant le code nécessaire dans add-one.js. Pour exécuter les tests, tapez la commande `npm test` dans votre terminal.
+Faites passer le test add-one.test.js (pour l'exercice 01) en écrivant le code nécessaire dans add-one.js (pour l'exercice 01). Pour exécuter les tests, tapez la commande `npm test` dans votre terminal.
